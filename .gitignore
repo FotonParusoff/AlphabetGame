@@ -1,0 +1,19 @@
+# Секреты и переменные окружения
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+credentials*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы / кэш
+.idea/
+.vscode/
+*.log
+node_modules/
